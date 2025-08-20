@@ -1,5 +1,3 @@
-# Realtime-Whiteboard
-
 # 🖊️ Real-Time Collaborative Whiteboard  
 
 A **real-time collaborative whiteboard** built with **React, Node.js, Express, MongoDB, and Socket.IO**, enabling multiple users to draw, write, and collaborate together with sub-second latency.  
